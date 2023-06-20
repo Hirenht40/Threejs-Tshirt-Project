@@ -2,16 +2,15 @@
 # Hi, I'm Hirenkumar! 👋
 
 
-# Threejs Thsirt project:
+# Threejs T-shirt project:
 
 Developed a 3D T-shirt website using Threejs.
 
-[![Deploy on Vercel](https://railway.app/button.svg)](https://fileuploader-production.up.railway.app/)
+[![Deploy on Vercel]](https://threejs-tshirt-project.vercel.app/)
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, React.js, Node.js, Express.js, MongoDb
-
+React.js, Threejs
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hirenkumar-portfolio.netlify.app/)
